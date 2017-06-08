@@ -9,3 +9,8 @@ List of tools I use and how I use it.
 
 ### Chrome extension - Clear Cache
 - Once installed, make sure to set 'Automatically reload active tab after clearing data' is checked in options
+
+### Using Spaces on macOS
+- Open 'System Preferences' on Mac, click Mission Control, then uncheck 'When switching to an application, switch to a Space with open Windows for the application
+
+
